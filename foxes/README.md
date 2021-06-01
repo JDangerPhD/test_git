@@ -1,5 +1,5 @@
 ---
-title: Collaborative excercise in GitHub
+title: Collaborative Exercise in GitHub
 ---
 
 ## QQ Normalization
@@ -7,7 +7,5 @@ title: Collaborative excercise in GitHub
 Normalization using rnorm 100 sampling
 
 <center>
-
-<img src="qqnorm_100.png", width=400>
-
+<img src="qqnorm_100.png" width=400>
 </center> 
